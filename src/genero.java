@@ -60,6 +60,7 @@ public class genero {
     }
 
     public void imprimirDatos(){
+        //hola a todos
         System.out.println(this.tipo);
         System.out.println(this.ritmo);
         System.out.println(this.anio);
